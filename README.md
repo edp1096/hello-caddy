@@ -9,5 +9,5 @@ Taste `Caddy` with `php-fpm` and `vscode` on `linux`
 
 * Run Caddy
 ```sh
-caddy_binary run --config ./Caddyfile
+./caddy_binary run --config ./Caddyfile
 ```
