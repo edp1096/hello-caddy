@@ -1,4 +1,4 @@
-Taste Caddy with php-fpm and vscode on linux
+Taste `Caddy` with `php-fpm` and `vscode` on `linux`
 
 * Download Caddy
     * https://caddyserver.com/api/download?os=linux&arch=arm64
